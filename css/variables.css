@@ -1,0 +1,19 @@
+:root {
+  /* Font family */
+  --main-family: "Kanit", sans-serif;
+  --headers-family: "Lora", serif;
+
+  /* Font sizes */
+  --nav-size: 18px;
+  --section-title-size: 60px;
+  --main-size: 20px;
+  --sercive-title-size: 28px;
+
+  /* Colors */
+  --main-color: #ffffff;
+  --socandary-color: #ffffffb2;
+  --primary-color: #5454d4;
+
+  /* Specifical variables */
+  --container-width: 1200px;
+}
